@@ -5,7 +5,7 @@
     "keywords": "esphome floorheating",
     "repository": {
       "type": "git",
-      "url": "https://github.com/Revenberg/espfloorheatingl.git"
+      "url": "https://github.com/Revenberg/espfloorheating.git"
     },
     "authors": [
       {
